@@ -1,0 +1,20 @@
+header {
+  width: 100%;
+  border: 2px solid yellow;
+  height: 15vh;
+  padding-top: 3rem;
+}
+nav {
+  max-width: 60%;
+  border: 2px solid brown;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.apply-btn {
+  width: 8vw;
+  height: 7vh;
+  border-radius: 0.8rem;
+  padding: 2rem;
+}
